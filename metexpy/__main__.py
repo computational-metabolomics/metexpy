@@ -2,6 +2,7 @@
 
 import argparse
 import os
+from metexpy import __version__
 
 
 def main(): # pragma: no cover
