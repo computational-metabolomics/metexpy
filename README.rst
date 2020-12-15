@@ -1,6 +1,6 @@
 MetExPy
 =======
-|Version| |Py versions| |Git| |Bioconda| |Build Status (Travis)| |Build Status (AppVeyor)| |License| |RTD doc| |codecov| |binder|
+|Version| |Py versions| |Git| |Bioconda| |Build Status| |License| |RTD doc| |codecov| |binder|
 
 Python Package to search, extract and rename metabolite and lipid names using regular expression.
 
@@ -39,11 +39,8 @@ License
 Released under the GNU General Public License v3.0 (see `LICENSE file <https://github.com/computational-metabolomics/metexpy/blob/master/LICENSE>`_)
 
 
-.. |Build Status (Travis)| image:: https://img.shields.io/travis/computational-metabolomics/metexpy.svg?style=flat&maxAge=3600&label=Travis-CI
-   :target: https://travis-ci.org/computational-metabolomics/metexpy
-
-.. |Build Status (AppVeyor)| image:: https://img.shields.io/appveyor/ci/RJMW/metexpy.svg?style=flat&maxAge=3600&label=AppVeyor
-   :target: https://ci.appveyor.com/project/RJMW/metexpy/branch/master
+.. |Build Status| image:: https://github.com/computational-metabolomics/metexpy/workflows/metexpy/badge.svg
+   :target: https://github.com/computational-metabolomics/metexpy/actions
 
 .. |Py versions| image:: https://img.shields.io/pypi/pyversions/metexpy.svg?style=flat&maxAge=3600
    :target: https://pypi.python.org/pypi/metexpy/
